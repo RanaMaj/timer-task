@@ -1,0 +1,26 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #202124;
+}
+
+.box-timer {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.btn-div {
+    padding: 5%;
+}
+
+.btn-div button {
+    background-color: transparent;
+    border: 1px solid #3C4043;
+    width: 49%;
+    height: ;
+}
